@@ -1,4 +1,4 @@
-# Open Collective API
+not open to any more agreement it time for last will of testament for last action and removal of self # Open Collective API
 
 ![CI](https://github.com/opencollective/opencollective-api/workflows/CI/badge.svg)
 ![E2E](https://github.com/opencollective/opencollective-api/workflows/E2E/badge.svg)
